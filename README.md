@@ -1,32 +1,25 @@
-# Página Principal da UNES
+# 🌐 **Site da Unes** 
 
-Este repositório contém o projeto desenvolvido durante um curso da Udemy, onde criei a página principal do site da UNES (Universidade fictícia).
+Este é um site criado como parte do curso de **Desenvolvimento Web**. O site foi desenvolvido usando **HTML5** e possui as seguintes páginas principais:
 
-## 📌 Tecnologias Utilizadas
-- HTML5
+- **Home**
+- **Contato**
+- **Quem Somos**
+- **Login**
 
+## 🚀 Funcionalidades
 
-## 📄 Sobre o Projeto
-O objetivo deste projeto foi praticar e reforçar os fundamentos do desenvolvimento web, criando uma estrutura simples e organizada para a página principal da UNES.
+- **🏠 Home**: Página inicial com uma breve introdução sobre a faculdade.
+- **📞 Contato**: Formulário para entrar em contato com a instituição.
+- **🧑‍🏫 Quem Somos**: Página com informações sobre a faculdade, missão, visão e valores.
+- **🔑 Login**: Página de login para acessar funcionalidades restritas.
 
-### 🔹 Estrutura do site:
-- **Cabeçalho:** Contém o logotipo da universidade e um menu de navegação;
-- **Banner principal:** Imagem de destaque com o texto "Tecnologia no seu Aprendizado";
-- **Seção de apresentação:** Informações sobre a universidade, utilizando texto fictício (Lorem Ipsum);
-- **Rodapé:** Exibe a mensagem "Todos os direitos reservados".
+## 🛠️ Tecnologias Utilizadas
 
-O layout do site é simples, com uma combinação de cores sóbrias e um design que destaca a proposta acadêmica da universidade.
+- **HTML5**
 
-## 🖥️ Como Visualizar o Projeto
-1. Clone este repositório:
+## 📝 Como Rodar
+
+1. Clone este repositório para sua máquina local:
    ```bash
-   git clone https://github.com/JoaoBruto/udemy-devweb.git
-   ```
-2. Abra o arquivo `index.html` no seu navegador.
-
-## 🔗 Demonstração
-Caso queira visualizar o projeto online, acesse: https://github.com/JoaoBruto/udemy-devweb
-
----
-🚀 **Desenvolvido como parte do aprendizado em desenvolvimento web.**
-
+   git clone <https://github.com/JoaoBruto/udemy-devweb>
